@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TextCast</string>
+    <string name="accessibility_service_description">Automatically syncs copied text from all apps on your phone to your PC clipboard via Wi-Fi.</string>
+</resources>
+
